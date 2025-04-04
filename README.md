@@ -1,4 +1,4 @@
-# 🖥️**Pipe Network PoP Node Installation & Configuration Guide**🖥️
+# 🖥️**Pipe Network PoP Node**🖥️
 
 This step-by-step guide will walk you through the process of installing, configuring, and running a **Pipe Network PoP Node** on your VPS. It covers both a **quick installation** method and how to set up the node using **systemd** for better management.
 
